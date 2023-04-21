@@ -33,5 +33,19 @@ Big Market Sales Prediction: https://datahack.analyticsvidhya.com/contest/practi
 - Item MRP: suggest retail prices affects the sale
 - Item visibility affects the sales
 - Item weight affects the sales
--Outlet Year affects the sales: when the outlet was built. 
+- Outlet Year affects the sales: when the outlet was built. 
 - Snack Foods affect the sales
+
+#### Visual 3: Bar Graph Showing Top 15 with Shap
+![alt text] (https://github.com/Elispreng/Project_1/blob/main/Images/Shap%20Bar%20Plot.png)
+
+### Feature Comparison
+-The feature comparisons with Shap are  almost the same. The only difference is the fifth feature. In  Shap, it is Outlet type and and in the original random forest  the fifth feature was snack foods. 
+
+#### Visual 4: Shap Summary Dot Plot
+![alt text] (https://github.com/Elispreng/Project_1/blob/main/Images/Shap%20Summary%20Plot2.png)
+
+Three most important features interpretation:
+Item MRP: lower the MRP the more likely the model will predict a sales price.
+Item Visibility: Higher value of Visibility leads to lower sales.
+Item Weight: Higher value of Weight leads to lower sales.
