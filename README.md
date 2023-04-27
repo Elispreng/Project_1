@@ -70,6 +70,6 @@ Starchy Foods, Hard Drinks, and Baking Goods
 
 ![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/LIME_HighMRP2.png)
 
-#### Interpetation of Forceplot 
+#### Interpretation of Forceplot 
 In this case, feature 'Item MRP' and 'Outlet Size small' have a positive impact on the prediction, while 'Item Weight' and 'Item Visibility' have a negative impact on the prediction.
 ![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/Force_Plot_High_MRP)
