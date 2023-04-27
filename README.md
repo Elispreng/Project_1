@@ -55,7 +55,7 @@ Item Weight: Higher value of Weight leads to lower sales.
 The predicted sales value is 369.03, Orange signifies the positive impact and blue signifies the negative impact of that feature on the target. The positive impact on sales prediction are item type of meat, supermarket type 2, location/tier 3, and item weight. Item_MRP, hard drinks, Breakfast, canned, fruits/vegetables, and health/hygiene have negative impact on sales prediction
 
 ### Interpretation of Force Plot
-![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/High%20Visibility%20Force%20Plot.png)
+![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/HighVizForcePlot.png)
 - In this case, item type meat has  a positive impact on the prediction. Outlet size medium and supermarket type 2 also have positive impact on predicting sales. Two  features  have a negative impact on the prediction. These features Item MRP and  visibility. 
 
 
