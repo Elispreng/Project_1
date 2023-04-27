@@ -50,9 +50,15 @@ Item MRP: lower the MRP the more likely the model will predict a sales price.
 Item Visibility: Higher value of Visibility leads to lower sales.
 Item Weight: Higher value of Weight leads to lower sales.
 
-### First Example:High Visbility
+### First Example:High Visibility
 #### Interpretation of LIME
-The predicted sales value is 369.03, Orange signifies the positive impact and blue signifies the negative impact of that feature on the target. The positive impact on sales prediction are item type of meat, supermarket type 2, location/tier 3, and item weight. Item_MRP, hard drinks, Breakfast, canned, fruits/vegetables, and health/hygiene have negative impact on sales prediction
+![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/HighVizLIME.png)
+The predicted sales value is 369.03
+Orange signifies the positive impact and blue signifies the negative impact of that feature on the target. 
+- Top 3 Positive impact on sales prediction 
+  - item type of meat, supermarket type 2, location/tier 3 and frozen foods. 
+- Top 3 Negative impact on sales prediction
+ -  Item MRP, Breakfast, Snack Foods 
 
 ### Interpretation of Force Plot
 ![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/HighVizForcePlot.png)
