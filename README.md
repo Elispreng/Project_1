@@ -56,3 +56,20 @@ The predicted sales value is 369.03, Orange signifies the positive impact and bl
 
 ### Cannot add Forceplot image
 In this case, outlet type supermarket 1 and 2 have a positive impact on the prediction. The third factor of weight also has positive impact on predicting sales. Many features have a negative impact on the prediction. These features Item MRP, visibility, and the size of the outlet as small.
+
+
+
+### Second Example High MRP 
+#### Interpretation of LIME
+#### The predicted sales value is 260.93
+  - Orange signifies the positive impact and blue signifies the negative impact of that feature on the target.
+ - Positive impact on sales prediction
+Item MRP, Item Visibillity, and Supermarket type 2
+ - Negative impact on sales prediction
+Starchy Foods, Hard Drinks, and Baking Goods
+
+![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/LIME_HighMRP2.png)
+
+#### Interpetation of Forceplot 
+In this case, feature 'Item MRP' and 'Outlet Size small' have a positive impact on the prediction, while 'Item Weight' and 'Item Visibility' have a negative impact on the prediction.
+![alt text](https://github.com/Elispreng/Project_1/blob/main/Images/Force_Plot_High_MRP)
